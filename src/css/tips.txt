@@ -1,0 +1,14 @@
+/*边角圆弧*/
+-fx-background-radius:30
+
+/*内边距*/
+-fx-background-insets:10
+
+/*设置背景颜色渐变,where <side-or-corner> = [left | right] || [top | bottom]*/
+-fx-background-color:linear-gradient(to right,#99CCFF,#CCFFFF)
+
+/*上下颜色渐变*/
+-fx-background-color:linear-gradient(from 0px 0px to 0px 50px, gray, darkgray 50%, dimgray 99%, white)
+
+/* 背景图片 */
+-fx-background-image: url('/image/plus_64.png')

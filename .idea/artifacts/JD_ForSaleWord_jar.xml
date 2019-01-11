@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JD_ForSaleWord:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JD_ForSaleWord_jar</output-path>
+    <root id="archive" name="JD_ForSaleWord.jar">
+      <element id="module-output" name="JD_ForSaleWord" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/antlrall-2.7.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/bootstrapfx-core-0.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/cpdetector_1.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jchardet-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jargs-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsoup-1.8.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
